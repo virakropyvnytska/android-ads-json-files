@@ -1,7 +1,7 @@
 {
     "ads":[
        {
-          "adPlaceID":"vpn_qidong",
+          "adPlaceID":"app_launch_full",
           "adStatus":1,
           "showCloseSize":30,
           "backGroundColor":"#5c000000",
@@ -53,7 +53,7 @@
           ]
        },
        {
-          "adPlaceID":"vpn_conn",
+          "adPlaceID":"vpn_connection_status_full",
           "adStatus":1,
           "showCloseSize":30,
           "backGroundColor":"#5c000000",
@@ -107,7 +107,7 @@
           ]
        },
        {
-          "adPlaceID":"vpn_shouye2",
+          "adPlaceID":"connect_report_banner_native",
           "adStatus":1,
           "showCloseSize":30,
           "backGroundColor":"#5c000000",
@@ -139,7 +139,7 @@
           ]
        },
        {
-          "adPlaceID":"vpn_close",
+          "adPlaceID":"vpn_disconnection_status_full",
           "adStatus":1,
           "isBack":0,
           "adStyle":1,
@@ -183,7 +183,7 @@
           ]
        },
        {
-          "adPlaceID":"vpn_server_list",
+          "adPlaceID":"vpn_server_list_banner",
           "adStatus":1,
           "isBack":0,
           "adStyle":1,
@@ -212,7 +212,7 @@
           ]
        },
        {
-          "adPlaceID":"vpn_popup",
+          "adPlaceID":"vpn_disconnect_confirmation_banner_native",
           "adStatus":1,
           "showCloseSize":30,
           "backGroundColor":"#5c000000",
@@ -244,7 +244,7 @@
           ]
        },
        {
-          "adPlaceID":"vpn_mshouye2",
+          "adPlaceID":"main_banner_home_screen_native",
           "adStatus":1,
           "showCloseSize":30,
           "backGroundColor":"#5c000000",
